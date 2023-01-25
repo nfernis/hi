@@ -1,2 +1,2 @@
-print("Hello world bugFix")
+print("Hello world bugFix") привет, Настя!
 print("Hello world bugFix")
